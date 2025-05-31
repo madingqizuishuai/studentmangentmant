@@ -8,7 +8,7 @@
 ### 学习了怎么配置VUE环境，熟悉了vue的框架和基础语法，怎么创建和写readme.md文件
 
 ## 代码展示
-
+’’’
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -701,7 +701,7 @@
   </script>
 </body>
 </html>
-
+’’’
 （代码大部分由ai生成）
 
 ## 成果展示
